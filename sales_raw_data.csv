@@ -1,0 +1,10 @@
+order_id,product,category,region,sales,profit,date
+1001,Laptop,Computers,East,45000,5000,10-02-2025
+1002,Chair,Furniture,west,1500,200,15-02-2025
+1003,Sofa,Furniture,west,4000,500,20-02-2025
+1004,Destop,Computers,North,25000,2000,25-02-2025
+1005,Mobile,Electronics,south,35000,1500,26-02-2025
+1006,Tv,,North,60000,,02-03-2025
+1007,Watch,Accessory,,,100,10-03-2025
+1008,Bag,,North,1000,,12-03-2025
+1008,Bag,,South,12,2,25-03-2025
